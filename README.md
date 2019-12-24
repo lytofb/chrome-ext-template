@@ -73,7 +73,7 @@ The Chrome Extensions is available [on the Chrome Web Store](https://chrome.goog
 
 
 ## Installation
-1. Clone the repository `git clone https://github.com/EmailThis/extension-boilerplate.git`
+1. Clone the repository `git clone https://github.com/jahson88/chrome-ext-template`
 2. Run `npm install`
 3. Run `npm run build`
 
