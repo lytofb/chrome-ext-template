@@ -23,6 +23,37 @@ The Chrome Extensions is available [on the Chrome Web Store](https://chrome.goog
 
 
 ## Features
+<dl>
+  <dt>
+"devDependencies": {</dt>
+ <dd>   "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.1.2",
+    "babelify": "^7.3.0",
+    "browserify": "^14.1.0",
+    "cross-env": "^3.2.4",
+    "event-stream": "^3.3.4",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-load-plugins": "^2.0.1",
+    "gulp-merge-json": "^1.3.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-run-sequence": "*",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^5.0.1",
+    "node-sass": "^4.13.0",
+    "preprocessify": "^1.0.1",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
+ </dd>
+</dl>
 
 <dl>
   <dt>Write once and deploy to Chrome, Opera & Firefox</dt>
